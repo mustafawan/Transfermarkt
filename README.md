@@ -1,4 +1,4 @@
-# TransferMark Project
+# TransferMarkt Project
 
 This project is a tool developed to monitor and analyze the football transfer market. Users can view transfer information of players in different leagues, examine transfer details, and perform analyses.
 
